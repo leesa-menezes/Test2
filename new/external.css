@@ -1,0 +1,42 @@
+ * {
+      box-sizing: border-box;
+    }
+    body
+    {
+      margin: 0;
+      padding: 0;
+      color: red;
+      background-color: yellow;
+
+    }
+    
+     p{
+      width: 13%;
+      background-color: gray;
+      color: pink;
+      border: 1px solid black;
+      float: left;
+      padding: 5px;
+      margin: 5px;
+
+
+     }
+     section{
+      color: purple;
+      font-size: 10px
+
+     }
+      a{
+        color: black;
+
+      }
+       #box {
+        background-color: white;
+        padding:10px 10px 10px 10px;
+        border:5px solid black;
+        margin: 40px;
+        width:300px;
+      }
+      #content {
+        background-color: green
+      }
